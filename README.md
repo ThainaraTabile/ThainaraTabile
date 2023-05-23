@@ -14,6 +14,12 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Insomnia" height="30" width="40" src="https://user-images.githubusercontent.com/120285942/236062287-09f1bc78-7e35-45bc-b420-17b08bd4f81d.svg">
+
+
+ 
+ <br>
+ <img alt="Vercel" height="70" width="70" src="https://www.svgrepo.com/show/354512/vercel.svg">
+
  <br><br>
  Caso queira entrar em contato comigo, você pode me encontrar:
 <p align="center">
