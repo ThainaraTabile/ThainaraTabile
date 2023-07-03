@@ -1,7 +1,7 @@
 # ThainaraTabile
 
 <div align="center">
- 👩‍💻 Estudante de Desenvolvimento Web da 9ª turma da Laboratória
+ 👩‍💻 Desenvolvedora Web da 9ª turma da Laboratória
  <br><br>
    Languages and tools:  <br><br>
 <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
